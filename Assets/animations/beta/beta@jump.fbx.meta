@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 19e965793f37c7f4d855c16bb47ca222
+timeCreated: 1512328898
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Antina
+    100002: //RootNode
+    100004: Body
+    100006: Body_part1
+    100008: Body_part2
+    100010: Body_part3
+    100012: group1
+    100014: Head
+    100016: Jetpack
+    100018: joint1
+    100020: joint2
+    100022: joint3
+    100024: joint4
+    100026: joint5
+    100028: joint6
+    100030: joint7
+    100032: joint8
+    100034: joint9
+    100036: L_hand
+    100038: L_sholder
+    100040: nurbsCircle1
+    100042: nurbsCircle2
+    100044: nurbsCircle5
+    100046: pCube2
+    100048: pCube2 1
+    100050: pPyramid1
+    100052: pPyramid1 1
+    100054: pPyramid2
+    100056: pPyramid2 1
+    100058: pPyramid3
+    100060: pPyramid3 1
+    100062: pPyramid4
+    100064: pPyramid4 1
+    100066: R_hand
+    100068: R_sholder
+    100070: Thruster
+    400000: Antina
+    400002: //RootNode
+    400004: Body
+    400006: Body_part1
+    400008: Body_part2
+    400010: Body_part3
+    400012: group1
+    400014: Head
+    400016: Jetpack
+    400018: joint1
+    400020: joint2
+    400022: joint3
+    400024: joint4
+    400026: joint5
+    400028: joint6
+    400030: joint7
+    400032: joint8
+    400034: joint9
+    400036: L_hand
+    400038: L_sholder
+    400040: nurbsCircle1
+    400042: nurbsCircle2
+    400044: nurbsCircle5
+    400046: pCube2
+    400048: pCube2 1
+    400050: pPyramid1
+    400052: pPyramid1 1
+    400054: pPyramid2
+    400056: pPyramid2 1
+    400058: pPyramid3
+    400060: pPyramid3 1
+    400062: pPyramid4
+    400064: pPyramid4 1
+    400066: R_hand
+    400068: R_sholder
+    400070: Thruster
+    2300000: Antina
+    2300002: Body
+    2300004: Body_part2
+    2300006: Body_part3
+    2300008: Head
+    2300010: Jetpack
+    2300012: L_sholder
+    2300014: pCube2
+    2300016: pCube2 1
+    2300018: pPyramid1
+    2300020: pPyramid1 1
+    2300022: pPyramid2
+    2300024: pPyramid2 1
+    2300026: pPyramid3
+    2300028: pPyramid3 1
+    2300030: pPyramid4
+    2300032: pPyramid4 1
+    2300034: R_sholder
+    2300036: Thruster
+    3300000: Antina
+    3300002: Body
+    3300004: Body_part2
+    3300006: Body_part3
+    3300008: Head
+    3300010: Jetpack
+    3300012: L_sholder
+    3300014: pCube2
+    3300016: pCube2 1
+    3300018: pPyramid1
+    3300020: pPyramid1 1
+    3300022: pPyramid2
+    3300024: pPyramid2 1
+    3300026: pPyramid3
+    3300028: pPyramid3 1
+    3300030: pPyramid4
+    3300032: pPyramid4 1
+    3300034: R_sholder
+    3300036: Thruster
+    4300000: Head
+    4300002: Antina
+    4300004: Body
+    4300006: R_sholder
+    4300008: L_sholder
+    4300010: Jetpack
+    4300012: Body_part2
+    4300014: Body_part3
+    4300016: Thruster
+    4300018: pPyramid4
+    4300020: pPyramid1
+    4300022: pPyramid2
+    4300024: pCube2
+    4300026: pPyramid3
+    4300028: pPyramid4
+    4300030: pPyramid1
+    4300032: pPyramid2
+    4300034: pCube2
+    4300036: pPyramid3
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    11400000: Antina
+    11400002: //RootNode
+    11400004: //RootNode
+    11400006: Body
+    11400008: Body_part1
+    11400010: Body_part2
+    11400012: Body_part3
+    11400014: group1
+    11400016: Head
+    11400018: Jetpack
+    11400020: joint1
+    11400022: joint2
+    11400024: joint3
+    11400026: joint4
+    11400028: joint5
+    11400030: joint6
+    11400032: joint7
+    11400034: joint8
+    11400036: joint9
+    11400038: L_hand
+    11400040: L_sholder
+    11400042: nurbsCircle1
+    11400044: nurbsCircle2
+    11400046: nurbsCircle5
+    11400048: pCube2
+    11400050: pCube2 1
+    11400052: pPyramid1
+    11400054: pPyramid1 1
+    11400056: pPyramid2
+    11400058: pPyramid2 1
+    11400060: pPyramid3
+    11400062: pPyramid3 1
+    11400064: pPyramid4
+    11400066: pPyramid4 1
+    11400068: R_hand
+    11400070: R_sholder
+    11400072: Thruster
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Alpha
+  - Beta
+  - Wall
+  - AlphaRespawn
+  - BetaRespawn
+  - Door
+  - Hazard
+  - AlphaCarry
+  - BetaCarry
+  - BetaDeconstruct
+  - Alpha Reticle
+  - Beta Reticle
+  - Destroyable
+  - Bomb
+  - Laser
+  - SimpleShape
+  - Battery
+  - Gear
+  - AlphaInteract
+  - BetaInteract
+  - SimpleMachine
+  - Gate
+  - Fan
+  - Magnet
+  - AlphaConstruct
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Buildable
+  - Player
+  - Deconstruct
+  - Fan
+  - Blocking
+  - Machine
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

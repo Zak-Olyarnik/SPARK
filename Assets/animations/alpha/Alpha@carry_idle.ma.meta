@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 05cf7d6b90b99d344b7e31154128e08a
+timeCreated: 1512615937
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Alpha
+    100002: //RootNode
+    100004: Alpha_leg_redo:pCube14
+    100006: Alpha_leg_redo:pCube15
+    100008: Alpha_leg_redo:pCube16
+    100010: Alpha_leg_redo:pCube24
+    100012: Alpha_leg_redo:polySurface10
+    100014: Alpha_leg_redo:polySurface12
+    100016: Alpha_leg_redo:polySurface13
+    100018: bicep
+    100020: bicep 1
+    100022: Body
+    100024: Chest
+    100026: Chest_light
+    100028: Control
+    100030: elbow
+    100032: elbow 1
+    100034: forearm
+    100036: forearm 1
+    100038: group1
+    100040: group1 1
+    100042: group2
+    100044: group3
+    100046: group4
+    100048: Hand
+    100050: Hand 1
+    100052: Head
+    100054: Head 1
+    100056: Head 2
+    100058: Ik
+    100060: ikHandle11
+    100062: ikHandle12
+    100064: ikHandle2
+    100066: ikHandle2 1
+    100068: ikHandle3
+    100070: ikHandle5
+    100072: ikHandle6
+    100074: ikHandle6 1
+    100076: ikHandle7
+    100078: ikHandle7 1
+    100080: ikHandle8
+    100082: ikHandle9
+    100084: joint1
+    100086: joint10
+    100088: joint12
+    100090: joint13
+    100092: joint14
+    100094: joint19
+    100096: joint2
+    100098: joint20
+    100100: joint21
+    100102: joint22
+    100104: joint23
+    100106: joint24
+    100108: joint25
+    100110: joint26
+    100112: joint26 1
+    100114: joint27
+    100116: joint27 1
+    100118: joint28
+    100120: joint28 1
+    100122: joint29
+    100124: joint3
+    100126: joint31
+    100128: joint32
+    100130: joint33
+    100132: joint34
+    100134: joint35
+    100136: joint36
+    100138: joint37
+    100140: joint4
+    100142: joint8
+    100144: joint9
+    100146: Joints
+    100148: L_Arm
+    100150: L_Eye
+    100152: L_IK
+    100154: L_IK1
+    100156: L_Leg
+    100158: L_Leg 1
+    100160: left
+    100162: light
+    100164: light 1
+    100166: neck
+    100168: pCube14
+    100170: pCube15
+    100172: pCube16
+    100174: pCube24
+    100176: Pelvis
+    100178: Pelvis 1
+    100180: polySurface10
+    100182: polySurface12
+    100184: polySurface13
+    100186: polySurface5
+    100188: R_Arm
+    100190: R_Eye
+    100192: R_Leg
+    100194: R_Leg 1
+    100196: Rig
+    100198: sholder
+    100200: sholder 1
+    100202: Torso
+    100204: wrist
+    100206: wrist 1
+    400000: Alpha
+    400002: //RootNode
+    400004: Alpha_leg_redo:pCube14
+    400006: Alpha_leg_redo:pCube15
+    400008: Alpha_leg_redo:pCube16
+    400010: Alpha_leg_redo:pCube24
+    400012: Alpha_leg_redo:polySurface10
+    400014: Alpha_leg_redo:polySurface12
+    400016: Alpha_leg_redo:polySurface13
+    400018: bicep
+    400020: bicep 1
+    400022: Body
+    400024: Chest
+    400026: Chest_light
+    400028: Control
+    400030: elbow
+    400032: elbow 1
+    400034: forearm
+    400036: forearm 1
+    400038: group1
+    400040: group1 1
+    400042: group2
+    400044: group3
+    400046: group4
+    400048: Hand
+    400050: Hand 1
+    400052: Head
+    400054: Head 1
+    400056: Head 2
+    400058: Ik
+    400060: ikHandle11
+    400062: ikHandle12
+    400064: ikHandle2
+    400066: ikHandle2 1
+    400068: ikHandle3
+    400070: ikHandle5
+    400072: ikHandle6
+    400074: ikHandle6 1
+    400076: ikHandle7
+    400078: ikHandle7 1
+    400080: ikHandle8
+    400082: ikHandle9
+    400084: joint1
+    400086: joint10
+    400088: joint12
+    400090: joint13
+    400092: joint14
+    400094: joint19
+    400096: joint2
+    400098: joint20
+    400100: joint21
+    400102: joint22
+    400104: joint23
+    400106: joint24
+    400108: joint25
+    400110: joint26
+    400112: joint26 1
+    400114: joint27
+    400116: joint27 1
+    400118: joint28
+    400120: joint28 1
+    400122: joint29
+    400124: joint3
+    400126: joint31
+    400128: joint32
+    400130: joint33
+    400132: joint34
+    400134: joint35
+    400136: joint36
+    400138: joint37
+    400140: joint4
+    400142: joint8
+    400144: joint9
+    400146: Joints
+    400148: L_Arm
+    400150: L_Eye
+    400152: L_IK
+    400154: L_IK1
+    400156: L_Leg
+    400158: L_Leg 1
+    400160: left
+    400162: light
+    400164: light 1
+    400166: neck
+    400168: pCube14
+    400170: pCube15
+    400172: pCube16
+    400174: pCube24
+    400176: Pelvis
+    400178: Pelvis 1
+    400180: polySurface10
+    400182: polySurface12
+    400184: polySurface13
+    400186: polySurface5
+    400188: R_Arm
+    400190: R_Eye
+    400192: R_Leg
+    400194: R_Leg 1
+    400196: Rig
+    400198: sholder
+    400200: sholder 1
+    400202: Torso
+    400204: wrist
+    400206: wrist 1
+    2000000: left
+    2300000: Alpha_leg_redo:pCube14
+    2300002: Alpha_leg_redo:pCube15
+    2300004: Alpha_leg_redo:pCube16
+    2300006: Alpha_leg_redo:pCube24
+    2300008: Alpha_leg_redo:polySurface10
+    2300010: Alpha_leg_redo:polySurface12
+    2300012: Alpha_leg_redo:polySurface13
+    2300014: bicep
+    2300016: bicep 1
+    2300018: Chest_light
+    2300020: elbow
+    2300022: elbow 1
+    2300024: forearm
+    2300026: forearm 1
+    2300028: Hand
+    2300030: Hand 1
+    2300032: Head 1
+    2300034: L_Eye
+    2300036: light
+    2300038: light 1
+    2300040: pCube14
+    2300042: pCube15
+    2300044: pCube16
+    2300046: pCube24
+    2300048: polySurface10
+    2300050: polySurface12
+    2300052: polySurface13
+    2300054: polySurface5
+    2300056: R_Eye
+    2300058: sholder
+    2300060: sholder 1
+    2300062: wrist
+    2300064: wrist 1
+    3300000: Alpha_leg_redo:pCube14
+    3300002: Alpha_leg_redo:pCube15
+    3300004: Alpha_leg_redo:pCube16
+    3300006: Alpha_leg_redo:pCube24
+    3300008: Alpha_leg_redo:polySurface10
+    3300010: Alpha_leg_redo:polySurface12
+    3300012: Alpha_leg_redo:polySurface13
+    3300014: bicep
+    3300016: bicep 1
+    3300018: Chest_light
+    3300020: elbow
+    3300022: elbow 1
+    3300024: forearm
+    3300026: forearm 1
+    3300028: Hand
+    3300030: Hand 1
+    3300032: Head 1
+    3300034: L_Eye
+    3300036: light
+    3300038: light 1
+    3300040: pCube14
+    3300042: pCube15
+    3300044: pCube16
+    3300046: pCube24
+    3300048: polySurface10
+    3300050: polySurface12
+    3300052: polySurface13
+    3300054: polySurface5
+    3300056: R_Eye
+    3300058: sholder
+    3300060: sholder 1
+    3300062: wrist
+    3300064: wrist 1
+    4300000: neck
+    4300002: R_Eye
+    4300004: L_Eye
+    4300006: Head
+    4300008: Chest_light
+    4300010: polySurface5
+    4300012: Pelvis
+    4300014: sholder
+    4300016: bicep
+    4300018: forearm
+    4300020: Hand
+    4300022: wrist
+    4300024: light
+    4300026: elbow
+    4300028: sholder
+    4300030: bicep
+    4300032: forearm
+    4300034: Hand
+    4300036: wrist
+    4300038: light
+    4300040: elbow
+    4300042: Alpha_leg_redo:pCube15
+    4300044: Alpha_leg_redo:pCube14
+    4300046: Alpha_leg_redo:polySurface12
+    4300048: Alpha_leg_redo:polySurface13
+    4300050: Alpha_leg_redo:pCube24
+    4300052: Alpha_leg_redo:polySurface10
+    4300054: Alpha_leg_redo:pCube16
+    4300056: pCube15
+    4300058: pCube14
+    4300060: pCube16
+    4300062: polySurface10
+    4300064: pCube24
+    4300066: polySurface12
+    4300068: polySurface13
+    7400000: carry_idle
+    9500000: //RootNode
+    13700000: neck
+    13700002: Pelvis 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: carry_idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

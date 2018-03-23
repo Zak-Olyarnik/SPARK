@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 8e3248d5d2328b84da8b39bb43ffbdb3
+timeCreated: 1508294021
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: imagePlane1
+    100004: imagePlane2
+    100006: pCube1
+    100008: pCylinder1
+    100010: pPipe1
+    100012: pPipe2
+    100014: pPipe3
+    100016: pPipe4
+    100018: transform1
+    100020: transform2
+    100022: Antina
+    100024: Body
+    100026: Body_part1
+    100028: Body_part2
+    100030: Body_part3
+    100032: Jetpack
+    100034: L_hand
+    100036: L_sholder
+    100038: pCube2
+    100040: pCube2 1
+    100042: pCube6
+    100044: pPyramid1
+    100046: pPyramid1 1
+    100048: pPyramid2
+    100050: pPyramid2 1
+    100052: pPyramid3
+    100054: pPyramid3 1
+    100056: pPyramid4
+    100058: pPyramid4 1
+    100060: R_hand
+    100062: R_sholder
+    100064: Thruster
+    100066: group1
+    100068: joint1
+    100070: joint2
+    100072: joint3
+    100074: joint4
+    100076: joint5
+    100078: joint6
+    100080: joint7
+    100082: joint8
+    100084: joint9
+    100086: Head
+    400000: //RootNode
+    400002: imagePlane1
+    400004: imagePlane2
+    400006: pCube1
+    400008: pCylinder1
+    400010: pPipe1
+    400012: pPipe2
+    400014: pPipe3
+    400016: pPipe4
+    400018: transform1
+    400020: transform2
+    400022: Antina
+    400024: Body
+    400026: Body_part1
+    400028: Body_part2
+    400030: Body_part3
+    400032: Jetpack
+    400034: L_hand
+    400036: L_sholder
+    400038: pCube2
+    400040: pCube2 1
+    400042: pCube6
+    400044: pPyramid1
+    400046: pPyramid1 1
+    400048: pPyramid2
+    400050: pPyramid2 1
+    400052: pPyramid3
+    400054: pPyramid3 1
+    400056: pPyramid4
+    400058: pPyramid4 1
+    400060: R_hand
+    400062: R_sholder
+    400064: Thruster
+    400066: group1
+    400068: joint1
+    400070: joint2
+    400072: joint3
+    400074: joint4
+    400076: joint5
+    400078: joint6
+    400080: joint7
+    400082: joint8
+    400084: joint9
+    400086: Head
+    2300000: pCube1
+    2300002: pPipe2
+    2300004: pPipe3
+    2300006: pPipe4
+    2300008: Antina
+    2300010: Body
+    2300012: Body_part2
+    2300014: Body_part3
+    2300016: Jetpack
+    2300018: L_sholder
+    2300020: pCube2
+    2300022: pCube2 1
+    2300024: pCube6
+    2300026: pPyramid1
+    2300028: pPyramid1 1
+    2300030: pPyramid2
+    2300032: pPyramid2 1
+    2300034: pPyramid3
+    2300036: pPyramid3 1
+    2300038: pPyramid4
+    2300040: pPyramid4 1
+    2300042: R_sholder
+    2300044: Thruster
+    2300046: Head
+    3300000: pCube1
+    3300002: pPipe2
+    3300004: pPipe3
+    3300006: pPipe4
+    3300008: Antina
+    3300010: Body
+    3300012: Body_part2
+    3300014: Body_part3
+    3300016: Jetpack
+    3300018: L_sholder
+    3300020: pCube2
+    3300022: pCube2 1
+    3300024: pCube6
+    3300026: pPyramid1
+    3300028: pPyramid1 1
+    3300030: pPyramid2
+    3300032: pPyramid2 1
+    3300034: pPyramid3
+    3300036: pPyramid3 1
+    3300038: pPyramid4
+    3300040: pPyramid4 1
+    3300042: R_sholder
+    3300044: Thruster
+    3300046: Head
+    4300000: pPipe2
+    4300002: pPipe3
+    4300004: pPipe4
+    4300006: pCube1
+    4300008: Antina
+    4300010: pCube6
+    4300012: Body
+    4300014: R_sholder
+    4300016: L_sholder
+    4300018: Jetpack
+    4300020: Body_part2
+    4300022: Body_part3
+    4300024: Thruster
+    4300026: pPyramid4
+    4300028: pPyramid1
+    4300030: pPyramid2
+    4300032: pCube2
+    4300034: pPyramid3
+    4300036: pPyramid4
+    4300038: pPyramid1
+    4300040: pPyramid2
+    4300042: pCube2
+    4300044: pPyramid3
+    4300046: Head
+    7400000: Take 001
+    9500000: //RootNode
+    11400000: Antina
+    11400002: //RootNode
+    11400004: //RootNode
+    11400006: Body
+    11400008: Body_part1
+    11400010: Body_part2
+    11400012: Body_part3
+    11400014: group1
+    11400016: Jetpack
+    11400018: joint1
+    11400020: joint2
+    11400022: joint3
+    11400024: joint4
+    11400026: joint5
+    11400028: joint6
+    11400030: joint7
+    11400032: joint8
+    11400034: joint9
+    11400036: L_hand
+    11400038: L_sholder
+    11400040: pCube2
+    11400042: pCube2 1
+    11400044: pCube6
+    11400046: pPyramid1
+    11400048: pPyramid1 1
+    11400050: pPyramid2
+    11400052: pPyramid2 1
+    11400054: pPyramid3
+    11400056: pPyramid3 1
+    11400058: pPyramid4
+    11400060: pPyramid4 1
+    11400062: R_hand
+    11400064: R_sholder
+    11400066: Thruster
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: joint1
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

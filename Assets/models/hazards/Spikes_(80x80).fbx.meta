@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 781108e7d2fe9a24fb5ca208788e3203
+timeCreated: 1513122117
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: polySurface11
+    100002: polySurface14
+    100004: polySurface15
+    100006: polySurface16
+    100008: polySurface17
+    100010: polySurface17_MeshPart0
+    100012: polySurface17_MeshPart1
+    100014: polySurface17_MeshPart10
+    100016: polySurface17_MeshPart2
+    100018: polySurface17_MeshPart3
+    100020: polySurface17_MeshPart4
+    100022: polySurface17_MeshPart5
+    100024: polySurface17_MeshPart6
+    100026: polySurface17_MeshPart7
+    100028: polySurface17_MeshPart8
+    100030: polySurface17_MeshPart9
+    100032: polySurface7
+    100034: //RootNode
+    100036: transform104
+    100038: transform105
+    100040: transform106
+    100042: transform107
+    100044: transform108
+    400000: polySurface11
+    400002: polySurface14
+    400004: polySurface15
+    400006: polySurface16
+    400008: polySurface17
+    400010: polySurface17_MeshPart0
+    400012: polySurface17_MeshPart1
+    400014: polySurface17_MeshPart10
+    400016: polySurface17_MeshPart2
+    400018: polySurface17_MeshPart3
+    400020: polySurface17_MeshPart4
+    400022: polySurface17_MeshPart5
+    400024: polySurface17_MeshPart6
+    400026: polySurface17_MeshPart7
+    400028: polySurface17_MeshPart8
+    400030: polySurface17_MeshPart9
+    400032: polySurface7
+    400034: //RootNode
+    400036: transform104
+    400038: transform105
+    400040: transform106
+    400042: transform107
+    400044: transform108
+    2300000: polySurface17_MeshPart0
+    2300002: polySurface17_MeshPart1
+    2300004: polySurface17_MeshPart10
+    2300006: polySurface17_MeshPart2
+    2300008: polySurface17_MeshPart3
+    2300010: polySurface17_MeshPart4
+    2300012: polySurface17_MeshPart5
+    2300014: polySurface17_MeshPart6
+    2300016: polySurface17_MeshPart7
+    2300018: polySurface17_MeshPart8
+    2300020: polySurface17_MeshPart9
+    3300000: polySurface17_MeshPart0
+    3300002: polySurface17_MeshPart1
+    3300004: polySurface17_MeshPart10
+    3300006: polySurface17_MeshPart2
+    3300008: polySurface17_MeshPart3
+    3300010: polySurface17_MeshPart4
+    3300012: polySurface17_MeshPart5
+    3300014: polySurface17_MeshPart6
+    3300016: polySurface17_MeshPart7
+    3300018: polySurface17_MeshPart8
+    3300020: polySurface17_MeshPart9
+    4300000: polySurface17_MeshPart0
+    4300002: polySurface17_MeshPart1
+    4300004: polySurface17_MeshPart2
+    4300006: polySurface17_MeshPart3
+    4300008: polySurface17_MeshPart4
+    4300010: polySurface17_MeshPart5
+    4300012: polySurface17_MeshPart6
+    4300014: polySurface17_MeshPart7
+    4300016: polySurface17_MeshPart8
+    4300018: polySurface17_MeshPart9
+    4300020: polySurface17_MeshPart10
+    9500000: //RootNode
+    11400000: polySurface11
+    11400002: polySurface14
+    11400004: polySurface15
+    11400006: polySurface16
+    11400008: polySurface17
+    11400010: polySurface17_MeshPart0
+    11400012: polySurface17_MeshPart1
+    11400014: polySurface17_MeshPart10
+    11400016: polySurface17_MeshPart2
+    11400018: polySurface17_MeshPart3
+    11400020: polySurface17_MeshPart4
+    11400022: polySurface17_MeshPart5
+    11400024: polySurface17_MeshPart6
+    11400026: polySurface17_MeshPart7
+    11400028: polySurface17_MeshPart8
+    11400030: polySurface17_MeshPart9
+    11400032: polySurface7
+    11400034: //RootNode
+    11400036: //RootNode
+    11400038: transform104
+    11400040: transform105
+    11400042: transform106
+    11400044: transform107
+    11400046: transform108
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

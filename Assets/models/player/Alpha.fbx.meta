@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 0b655a1d565621a41a726916e1e777f0
+timeCreated: 1510717794
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bicep
+    100004: bicep 1
+    100006: Body
+    100008: Chest
+    100010: Chest_light
+    100012: elbow
+    100014: elbow 1
+    100016: forearm
+    100018: forearm 1
+    100020: Hand
+    100022: Hand 1
+    100024: Head
+    100026: Head 1
+    100028: hip
+    100030: hip 1
+    100032: knee
+    100034: knee 1
+    100036: L_Arm
+    100038: L_Arm1
+    100040: L_Eye
+    100042: L_Leg
+    100044: leg
+    100046: leg 1
+    100048: light
+    100050: light 1
+    100052: neck
+    100054: Pelvis
+    100056: polySurface5
+    100058: R_Eye
+    100060: R_Leg
+    100062: sholder
+    100064: sholder 1
+    100066: thigh
+    100068: thigh 1
+    100070: wrist
+    100072: wrist 1
+    100074: R_Arm
+    400000: //RootNode
+    400002: bicep
+    400004: bicep 1
+    400006: Body
+    400008: Chest
+    400010: Chest_light
+    400012: elbow
+    400014: elbow 1
+    400016: forearm
+    400018: forearm 1
+    400020: Hand
+    400022: Hand 1
+    400024: Head
+    400026: Head 1
+    400028: hip
+    400030: hip 1
+    400032: knee
+    400034: knee 1
+    400036: L_Arm
+    400038: L_Arm1
+    400040: L_Eye
+    400042: L_Leg
+    400044: leg
+    400046: leg 1
+    400048: light
+    400050: light 1
+    400052: neck
+    400054: Pelvis
+    400056: polySurface5
+    400058: R_Eye
+    400060: R_Leg
+    400062: sholder
+    400064: sholder 1
+    400066: thigh
+    400068: thigh 1
+    400070: wrist
+    400072: wrist 1
+    400074: R_Arm
+    2300000: bicep
+    2300002: bicep 1
+    2300004: Chest_light
+    2300006: elbow
+    2300008: elbow 1
+    2300010: forearm
+    2300012: forearm 1
+    2300014: Hand
+    2300016: Hand 1
+    2300018: Head 1
+    2300020: hip
+    2300022: hip 1
+    2300024: knee
+    2300026: knee 1
+    2300028: L_Eye
+    2300030: leg
+    2300032: leg 1
+    2300034: light
+    2300036: light 1
+    2300038: neck
+    2300040: Pelvis
+    2300042: polySurface5
+    2300044: R_Eye
+    2300046: sholder
+    2300048: sholder 1
+    2300050: thigh
+    2300052: thigh 1
+    2300054: wrist
+    2300056: wrist 1
+    3300000: bicep
+    3300002: bicep 1
+    3300004: Chest_light
+    3300006: elbow
+    3300008: elbow 1
+    3300010: forearm
+    3300012: forearm 1
+    3300014: Hand
+    3300016: Hand 1
+    3300018: Head 1
+    3300020: hip
+    3300022: hip 1
+    3300024: knee
+    3300026: knee 1
+    3300028: L_Eye
+    3300030: leg
+    3300032: leg 1
+    3300034: light
+    3300036: light 1
+    3300038: neck
+    3300040: Pelvis
+    3300042: polySurface5
+    3300044: R_Eye
+    3300046: sholder
+    3300048: sholder 1
+    3300050: thigh
+    3300052: thigh 1
+    3300054: wrist
+    3300056: wrist 1
+    4300000: polySurface5
+    4300002: Pelvis
+    4300004: Chest_light
+    4300006: sholder
+    4300008: bicep
+    4300010: elbow
+    4300012: forearm
+    4300014: light
+    4300016: wrist
+    4300018: Hand
+    4300020: thigh
+    4300022: leg
+    4300024: hip
+    4300026: knee
+    4300028: thigh
+    4300030: leg
+    4300032: hip
+    4300034: knee
+    4300036: Head
+    4300038: L_Eye
+    4300040: R_Eye
+    4300042: neck
+    4300044: sholder
+    4300046: bicep
+    4300048: elbow
+    4300050: forearm
+    4300052: light
+    4300054: wrist
+    4300056: Hand
+    7400000: Take 001
+    9500000: //RootNode
+    11400000: //RootNode
+    11400002: //RootNode
+    11400004: bicep
+    11400006: bicep 1
+    11400008: Body
+    11400010: Chest
+    11400012: Chest_light
+    11400014: elbow
+    11400016: elbow 1
+    11400018: forearm
+    11400020: forearm 1
+    11400022: Hand
+    11400024: Hand 1
+    11400026: Head
+    11400028: Head 1
+    11400030: hip
+    11400032: hip 1
+    11400034: knee
+    11400036: knee 1
+    11400038: L_Arm
+    11400040: L_Eye
+    11400042: L_Leg
+    11400044: leg
+    11400046: leg 1
+    11400048: light
+    11400050: light 1
+    11400052: neck
+    11400054: Pelvis
+    11400056: polySurface5
+    11400058: R_Arm
+    11400060: R_Eye
+    11400062: R_Leg
+    11400064: sholder
+    11400066: sholder 1
+    11400068: thigh
+    11400070: thigh 1
+    11400072: wrist
+    11400074: wrist 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

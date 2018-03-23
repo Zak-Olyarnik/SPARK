@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: a1fd49a6c3c40254ab356e1eb51e4c09
+timeCreated: 1512327424
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Antina
+    100002: back
+    100004: //RootNode
+    100006: Body
+    100008: Body_part1
+    100010: Body_part2
+    100012: Body_part3
+    100014: group1
+    100016: Head
+    100018: Jetpack
+    100020: joint1
+    100022: joint2
+    100024: joint3
+    100026: joint4
+    100028: joint5
+    100030: joint6
+    100032: joint7
+    100034: joint8
+    100036: joint9
+    100038: L_hand
+    100040: L_sholder
+    100042: nurbsCircle1
+    100044: nurbsCircle2
+    100046: nurbsCircle5
+    100048: nurbsCircle6
+    100050: nurbsCircle7
+    100052: pCube2
+    100054: pCube2 1
+    100056: pPyramid1
+    100058: pPyramid1 1
+    100060: pPyramid2
+    100062: pPyramid2 1
+    100064: pPyramid3
+    100066: pPyramid3 1
+    100068: pPyramid4
+    100070: pPyramid4 1
+    100072: R_hand
+    100074: R_sholder
+    100076: Thruster
+    400000: Antina
+    400002: back
+    400004: //RootNode
+    400006: Body
+    400008: Body_part1
+    400010: Body_part2
+    400012: Body_part3
+    400014: group1
+    400016: Head
+    400018: Jetpack
+    400020: joint1
+    400022: joint2
+    400024: joint3
+    400026: joint4
+    400028: joint5
+    400030: joint6
+    400032: joint7
+    400034: joint8
+    400036: joint9
+    400038: L_hand
+    400040: L_sholder
+    400042: nurbsCircle1
+    400044: nurbsCircle2
+    400046: nurbsCircle5
+    400048: nurbsCircle6
+    400050: nurbsCircle7
+    400052: pCube2
+    400054: pCube2 1
+    400056: pPyramid1
+    400058: pPyramid1 1
+    400060: pPyramid2
+    400062: pPyramid2 1
+    400064: pPyramid3
+    400066: pPyramid3 1
+    400068: pPyramid4
+    400070: pPyramid4 1
+    400072: R_hand
+    400074: R_sholder
+    400076: Thruster
+    2000000: back
+    2300000: Antina
+    2300002: Body
+    2300004: Body_part2
+    2300006: Body_part3
+    2300008: Head
+    2300010: Jetpack
+    2300012: L_sholder
+    2300014: pCube2
+    2300016: pCube2 1
+    2300018: pPyramid1
+    2300020: pPyramid1 1
+    2300022: pPyramid2
+    2300024: pPyramid2 1
+    2300026: pPyramid3
+    2300028: pPyramid3 1
+    2300030: pPyramid4
+    2300032: pPyramid4 1
+    2300034: R_sholder
+    2300036: Thruster
+    3300000: Antina
+    3300002: Body
+    3300004: Body_part2
+    3300006: Body_part3
+    3300008: Head
+    3300010: Jetpack
+    3300012: L_sholder
+    3300014: pCube2
+    3300016: pCube2 1
+    3300018: pPyramid1
+    3300020: pPyramid1 1
+    3300022: pPyramid2
+    3300024: pPyramid2 1
+    3300026: pPyramid3
+    3300028: pPyramid3 1
+    3300030: pPyramid4
+    3300032: pPyramid4 1
+    3300034: R_sholder
+    3300036: Thruster
+    4300000: Head
+    4300002: Antina
+    4300004: Body
+    4300006: R_sholder
+    4300008: L_sholder
+    4300010: Jetpack
+    4300012: Body_part2
+    4300014: Body_part3
+    4300016: Thruster
+    4300018: pPyramid4
+    4300020: pPyramid1
+    4300022: pPyramid2
+    4300024: pCube2
+    4300026: pPyramid3
+    4300028: pPyramid4
+    4300030: pPyramid1
+    4300032: pPyramid2
+    4300034: pCube2
+    4300036: pPyramid3
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 1e77b070f2df1a84bb58cccc73bc4eac,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
