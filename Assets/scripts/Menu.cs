@@ -103,8 +103,8 @@ public class Menu : MonoBehaviour {
 		yield return new WaitForSeconds(0.3f);
         Debug.Log("alpha - " + alphaHead.transform.position);
         Debug.Log("beta - " + betaHead.transform.position);
-        alphaHead.transform.position = Vector3.MoveTowards(alphaHead.transform.position, new Vector3(960, alphaHead.transform.position.y, alphaHead.transform.position.z), 5.5f);
-		betaHead.transform.position = Vector3.MoveTowards(betaHead.transform.position, new Vector3(960, betaHead.transform.position.y, betaHead.transform.position.z), 5.5f);
+        alphaHead.transform.position = Vector3.MoveTowards(alphaHead.transform.position, new Vector3(0, alphaHead.transform.position.y, alphaHead.transform.position.z), 2.5f);
+		betaHead.transform.position = Vector3.MoveTowards(betaHead.transform.position, new Vector3(0, betaHead.transform.position.y, betaHead.transform.position.z), 2.5f);
 	}
 	 
 }
